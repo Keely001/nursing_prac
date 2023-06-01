@@ -1,0 +1,39 @@
+
+img{
+    border-radius: 100%;
+    padding: 3% 5%;
+    margin-left: 0%;
+}
+#navColor{
+    padding: 0%;
+}
+body{
+    color: #05f277;
+}
+
+
+.container-fluid{
+    background-color: #7d8892;
+}
+.icon-image{
+    background-color: #ff0;
+}
+
+.introD{
+    color: black;
+    background-color: #05f277;
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Montserrat-black', sans-serif;
+    padding: 3% 5%;
+    width: auto;
+    height: 100%;
+}
+.aboutDiv{
+    color: black;
+    background-color: #7d8892;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Montserrat-bold', sans-serif;
+    padding: 3% 5%;
+}
